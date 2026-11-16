@@ -1,4 +1,4 @@
-## Sales Pipeline Analysis: where B2B deals are won and lost
+# Sales Pipeline Analysis: where B2B deals are won and lost
 
 An end-to-end analysis of a B2B sales pipeline with **2,000 leads** across five lead sources, six industries and five sales reps. Using **SQL** and **Python**, I trace each lead from first contact to a won or lost deal, find where the funnel leaks, and turn the numbers into practical recommendations for a sales team.
 
@@ -27,7 +27,7 @@ An end-to-end analysis of a B2B sales pipeline with **2,000 leads** across five 
 
 ### 1. The biggest leak is between first contact and a meeting
 
-![Sales funnel](charts/1_funnel.png)
+![Sales funnel](1_funnel.png)
 
 | Stage | Leads | Conversion from previous stage |
 |---|---|---|
@@ -41,7 +41,7 @@ Only about **1 in 4 contacted leads agrees to a meeting.** Once a meeting happen
 
 ### 2. Referrals and inbound leads convert up to 4× better than cold outreach
 
-![Win rate by source](charts/2_win_rate_by_source.png)
+![Win rate by source](2_win_rate_by_source.png)
 
 | Source | Leads | Win rate | Revenue won | Avg. days to close |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ Companies with **1,000+ employees have the highest win rate and deals almost 10�
 
 ### 5. Rep performance differs by more than 2×
 
-![Revenue by rep](charts/3_revenue_by_rep.png)
+![Revenue by rep](3_revenue_by_rep.png)
 
 The best reps win **5.1%** of their leads, the weakest **2.1%**, with similar lead volumes (375–420 each). The gap is a coaching opportunity: sharing what the top reps do in first calls could lift the whole team.
 
