@@ -1,0 +1,4 @@
+lead_id,created_date,source,industry,company_size,country,sales_rep,stage,furthest_stage,deal_value_eur,days_to_close
+1,2024-01-03,Referral,SaaS,51-200,Germany,Rep A,Won,Won,14000,32
+2,2024-01-05,LinkedIn Outreach,Fintech,201-1000,France,Rep B,Proposal,Proposal,32000,48
+3,2024-01-08,Cold Email,Manufacturing,1-50,Netherlands,Rep C,Contacted,Contacted,6000,20
